@@ -1,6 +1,6 @@
-variable "project_id" {
+variable "project_id"{
   type = string
-  default = "zonedetest"
+  default = "cr-460-gettingstartedterraform"           
 }
 
 variable "zone"{
